@@ -1,0 +1,24 @@
+{
+  "name": "taqtical-soundcloud-crop",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taqtical/com-soundcloud-android-crop.git"
+  },
+  "keywords": [
+    "soundcloud",
+    "crop",
+    "android"
+  ],
+  "author": "Soundcloud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/taqtical/com-soundcloud-android-crop/issues"
+  },
+  "homepage": "https://github.com/taqtical/com-soundcloud-android-crop#readme"
+}
